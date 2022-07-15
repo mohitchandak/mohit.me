@@ -1,5 +1,5 @@
 import React from "react";
-import profile from '../images/image1.jpg';
+import profile from '../images/image.jpg';
 import { FaGithub } from 'react-icons/fa';
 import { FaLinkedin } from 'react-icons/fa';
 import { FaTwitter } from 'react-icons/fa';
@@ -17,8 +17,8 @@ function Card() {
                     <p className='text-xl sm:text-2xl font-semibold text-gray-900'>
                         Mohit Chandak
                     </p>
-                    <p className='text-xs sm:text-base text-gray-600 pt-2 pb-4 px-5 w-auto inline-block border-b-2'>
-                       Computer Science Engineer   MERN Developer 
+                    <p className='text-xs sm:text-base text-gray-450 pt-2 pb-4 px-5 w-auto inline-block border-b-2'>
+                       Computer Science Engineer-MERN Developer 
 
                     </p>
                     <div className="flex align-center justify-center mt-4">

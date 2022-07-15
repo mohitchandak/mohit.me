@@ -4,6 +4,8 @@ import Card from './components/Card'
 import Footer from './components/Footer'
 import Skills from './components/Skills'
 import ContactMe from './components/contact'
+//import Education from './components/Education'
+import Project from './components/Project'
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 
@@ -22,6 +24,7 @@ function App() {
       <div data-aos="fade-up" data-aos-duration="800" data-aos-delay="400">
         <About />
         <Skills />
+        <Project />
         <ContactMe />
         <Footer />
 
