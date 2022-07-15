@@ -1,5 +1,5 @@
 import React from "react";
-import profile from '../images/image.jpg';
+import profile from '../images/image1.jpg';
 import { FaGithub } from 'react-icons/fa';
 import { FaLinkedin } from 'react-icons/fa';
 import { FaTwitter } from 'react-icons/fa';
@@ -18,23 +18,23 @@ function Card() {
                         Mohit Chandak
                     </p>
                     <p className='text-xs sm:text-base text-gray-600 pt-2 pb-4 px-5 w-auto inline-block border-b-2'>
-                       Computer Science Enginner   MERN Developer 
+                       Computer Science Engineer   MERN Developer 
 
                     </p>
                     <div className="flex align-center justify-center mt-4">
-                    <a target="_blank" className="text-xl m-1 p-1 sm:m-2 sm:p-2 text-gray-800 hover:bg-gray-800 rounded-full hover:text-white transition-colors duration-300" href="https://github.com/mohitchandak">
+                    <a target="_blank"  rel="noreferrer" className="text-xl m-1 p-1 sm:m-2 sm:p-2 text-gray-800 hover:bg-gray-800 rounded-full hover:text-white transition-colors duration-300" href="https://github.com/mohitchandak">
                     <FaGithub />
                     <span class="sr-only">Github</span>
                   </a>
-                  <a target="_blank" className="text-xl m-1 p-1 sm:m-2 sm:p-2 text-teal-500 hover:bg-black rounded-full hover:text-white transition-colors duration-300" href="https://www.linkedin.com/in/chandak-mohit/">
+                  <a target="_blank" rel="noreferrer"className="text-xl m-1 p-1 sm:m-2 sm:p-2 text-teal-500 hover:bg-black rounded-full hover:text-white transition-colors duration-300" href="https://www.linkedin.com/in/chandak-mohit/">
                     <FaLinkedin />
                     <span class="sr-only">Linkedin</span>
                   </a>
-                  <a target="_blank" className="text-xl m-1 p-1 sm:m-2 sm:p-2 text-teal-500 hover:bg-black rounded-full hover:text-white transition-colors duration-300" href="https://twitter.com/64Bit_Coder_">
+                  <a target="_blank" rel="noreferrer"className="text-xl m-1 p-1 sm:m-2 sm:p-2 text-teal-500 hover:bg-black rounded-full hover:text-white transition-colors duration-300" href="https://twitter.com/64Bit_Coder_">
                     <FaTwitter />
                     <span class="sr-only">Twitter</span>  
                   </a>
-                  <a target="_blank" className="text-xl m-1 p-1 sm:m-2 sm:p-2 text-teal-500 hover:bg-black rounded-full hover:text-white transition-colors duration-300" href="https://mailto:chandakmohit41@gmail.com">
+                  <a target="_blank" rel="noreferrer" className="text-xl m-1 p-1 sm:m-2 sm:p-2 text-teal-500 hover:bg-black rounded-full hover:text-white transition-colors duration-300" href="https://mailto:chandakmohit41@gmail.com">
                     <FaRegEnvelope />
                     <span class="sr-only">Email</span>  
                   </a>
