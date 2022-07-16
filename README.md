@@ -1,3 +1,3 @@
-##mohit.me
+mohit.me
 
 https://mohitchandak.me/
