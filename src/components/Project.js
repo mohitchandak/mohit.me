@@ -79,10 +79,6 @@ function Project() {
                     <FaGithub />
                     <span class="sr-only">Github</span>
                   </a>
-                  <a target="_blank" rel="noreferrer"className="text-xl m-1 p-1 sm:m-2 sm:p-2 text-teal-500 hover:bg-black rounded-full hover:text-white transition-colors duration-300" href="https://mohitchandak.me/">
-                    <CgWebsite />
-                    <span class="sr-only">Live Demo</span>
-                  </a>
                  </div>
        </div> 
        </div>
