@@ -1,3 +1,3 @@
 ##mohit.me
 
-https://mohit-portfolio.surge.sh/
+https://mohitchandak.me/
