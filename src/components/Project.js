@@ -120,7 +120,7 @@ function Project() {
              Zomato Like Page
         </p>
         <p className='text-xs sm:text-base text-gray-450 pt-2 pb-4 px-5 w-auto inline-block border-b-2'>
-          Stacic Zomato Webite on HTML CSS 
+          Static Zomato Webite on HTML CSS 
         </p>
         <div className="flex align-center justify-center mt-4">
                     <a target="_blank"  rel="noreferrer" className="text-xl m-1 p-1 sm:m-2 sm:p-2 text-gray-800 hover:bg-gray-800 rounded-full hover:text-white transition-colors duration-300" href="https://github.com/mohitchandak/Zomato_Like_Page">
