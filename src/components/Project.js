@@ -45,7 +45,7 @@ function Project() {
     <div className="text-center mt-5">
     <img className="w-32 mx-auto shadow-xl rounded-full drop-shadow-sm" src={gith} alt="profile face" />
         <p className='text-xl mt-4 sm:text-2xl font-semibold text-gray-900'>
-            Github Serach User 
+            Github Search User 
         </p>
         <p className='text-xs sm:text-base text-gray-450 pt-2 pb-4 px-5 w-auto inline-block border-b-2'>
            React website using Github api and AuthO 
