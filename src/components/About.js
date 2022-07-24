@@ -17,7 +17,7 @@ function About() {
           take part in hackathons or related stuff.
         </p>
         <div className="text-center m-auto">
-          <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1sSZPuxQQw4qIbFvQQ467khNBviQms13o/view?usp=sharing">
+          <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/14GAVbsDo0BwKeoTA4uefmrK1L0TT2fkA/view?usp=sharing">
             <span
               className="mt-8 inline-block w-auto bg-black font-display text-white text-base md:text-xl py-3 px-5 cursor-pointer"
             >
